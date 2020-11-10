@@ -1,6 +1,8 @@
 # simple-dashboard
 A simple multipurpose app dashboard based on the kis principle and easily extensible.
 
+![SAMPLE](assets/images/sample.png "Sample Dashboard")
+
 # how-to-use
 
 simple-dashboard requires [Node.js](https://www.nodejs.org/) and [NPM](https://www.npmjs.com/) v12+ and 6+ respectively
